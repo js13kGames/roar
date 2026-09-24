@@ -1,4 +1,7 @@
 ---
+genres:
+  - action
+  - arcade
 directors_cut: https://piesku.com/roar/play
 post: https://piesku.com/roar/
 # See github.com/js13kGames/hello-world for supported frontmatter
